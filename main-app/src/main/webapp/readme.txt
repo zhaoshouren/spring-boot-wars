@@ -1,0 +1,1 @@
+this folder is used to support JBoss EAP configuration files
